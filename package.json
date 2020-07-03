@@ -1,0 +1,28 @@
+{
+  "name": "etag-webcrypto",
+  "version": "1.0.0",
+  "description": "Create RFC-compliant Entity Tags (ETags) using WebCrypto and browser-compatible APIs.",
+  "main": "dist/index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ispivey/etag-webcrypto.git"
+  },
+  "keywords": [
+    "etag",
+    "workers",
+    "webworker",
+    "webcrypto",
+    "etags",
+    "caching",
+    "cache"
+  ],
+  "author": "ispivey@cloudflare.com",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ispivey/etag-webcrypto/issues"
+  },
+  "homepage": "https://github.com/ispivey/etag-webcrypto#readme"
+}
